@@ -26,7 +26,16 @@
 
 ###
 
-<p align="left">class Nandan {
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Meet Nandan</title>
+</head>
+<body>
+  <pre>
+<code>
+class Nandan {
     String role = "B.Tech IT Student";
     String hobbies = "Coding, Content Writing, and Debugging Life";
 
@@ -43,7 +52,11 @@ public class MeetNandan {
         me.introduce();
     }
 }
-</p>
+</code>
+  </pre>
+</body>
+</html>
+
 
 ###
 
