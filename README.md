@@ -26,7 +26,24 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">class Nandan {
+    String role = "B.Tech IT Student";
+    String hobbies = "Coding, Content Writing, and Debugging Life";
+
+    void introduce() {
+        System.out.println("Hi, I'm Nandan! Currently compiling myself into a better developer...");
+        System.out.println("Fun fact: My code works perfectly... until I show it to someone else!");
+        System.out.println("Warning: May randomly start talking about DevOps, Cloud, or why semicolons are evil.");
+    }
+}
+
+public class MeetNandan {
+    public static void main(String[] args) {
+        Nandan me = new Nandan();
+        me.introduce();
+    }
+}
+</p>
 
 ###
 
